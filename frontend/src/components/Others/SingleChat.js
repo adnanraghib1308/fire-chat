@@ -12,7 +12,6 @@ import io from 'socket.io-client';
 import Lottie from "lottie-react";
 import animationData from '../../animations/typing.json';
 
-const ENDPOINT = "https://firechat-mern.herokuapp.com/";
 var socket, selectedChatCompare;
 
 const SingleChat = ({ fetchAgain, setFetchAgain }) => {
@@ -129,7 +128,7 @@ const SingleChat = ({ fetchAgain, setFetchAgain }) => {
     };
 
     useEffect(() => {
-      socket = io(ENDPOINT);
+      socket = io(process.env.REACT_APP_SOCKET_URL);
       socket.emit("setup", user);
       socket.on('connected', () => setSocketConnected(true));
       socket.on("typing", () => setIsTyping(true));
