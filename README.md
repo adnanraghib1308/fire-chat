@@ -1,4 +1,4 @@
-# Medical Shop (Inventory, Sales and Billing management system)
+# Fire Chat (Real time chat application)
 > Live demo http://34.131.151.133:5005/. Can login via guest credentials
 
 ## Table of Contents
@@ -36,10 +36,10 @@
 
 
 ## Screenshots
-![Screenshot 2022-01-19 at 12 10 27 PM](https://user-images.githubusercontent.com/56679676/150078807-39e5a7ef-edcd-4f02-83df-e8fafab1077c.jpg)
-![Screenshot 2022-01-19 at 12 14 25 PM](https://user-images.githubusercontent.com/56679676/150078824-501ede90-a6cf-4076-9105-137203b65576.jpg)
-![Screenshot 2022-01-19 at 12 14 49 PM](https://user-images.githubusercontent.com/56679676/150078833-6852a76c-204b-49f1-8112-4a57914470b8.jpg)
-![Screenshot 2022-01-19 at 12 17 09 PM](https://user-images.githubusercontent.com/56679676/150078845-51963c89-cddc-49ae-8348-370127a801aa.jpg)
+![Screenshot 2023-02-15 at 1 57 42 PM](https://user-images.githubusercontent.com/56679676/218974193-0f260972-864c-431b-b4b0-9c58a307e88e.png)
+![Screenshot 2023-02-15 at 1 58 07 PM](https://user-images.githubusercontent.com/56679676/218974338-79b69a66-94d7-4446-ad93-b671855764b8.png)
+![Screenshot 2023-02-15 at 1 58 36 PM](https://user-images.githubusercontent.com/56679676/218974373-e6d96187-f12a-4305-8fcf-429391dc6fa7.png)
+![Screenshot 2023-02-15 at 1 59 20 PM](https://user-images.githubusercontent.com/56679676/218974377-c073afd7-6cca-4446-a78d-83e2e4b27448.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Contact
